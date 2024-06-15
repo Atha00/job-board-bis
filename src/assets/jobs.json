@@ -1,0 +1,74 @@
+[
+  {
+    "title": "",
+    "contractType": "CDI",
+    "country": "Australie",
+    "city": "Sydney",
+    "className": "red",
+    "id": 1
+  },
+  {
+    "title": "Agent de Sécurité - Pantin",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Pantin",
+    "className": "green",
+    "id": 2
+  },
+  {
+    "title": "",
+    "contractType": "CDD",
+    "country": "France",
+    "city": "Paris",
+    "className": "yellow",
+    "id": 3
+  },
+  {
+    "title": "Chef de Projets",
+    "contractType": "CDD",
+    "country": "France",
+    "city": "Paris",
+    "className": "blue",
+    "id": 4
+  },
+  {
+    "title": "Développeur React.js",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Paris",
+    "className": "salmon",
+    "id": 5
+  },
+  {
+    "title": "",
+    "contractType": "CDI",
+    "country": "Suède",
+    "city": "Stockholm",
+    "className": "red",
+    "id": 6
+  },
+  {
+    "title": "Vendeur/se - Crans Montana",
+    "contractType": "CDI",
+    "country": "Suisse",
+    "city": "Crans-Montana",
+    "className": "green",
+    "id": 7
+  },
+  {
+    "title": "CRM & Data Quality Analyst",
+    "contractType": "CDI",
+    "country": "USA",
+    "city": "New-York",
+    "className": "yellow",
+    "id": 8
+  },
+  {
+    "title": "Infirmier (H/F)",
+    "contractType": "CDI",
+    "country": "France",
+    "city": "Pantin",
+    "className": "blue",
+    "id": 9
+  }
+]
