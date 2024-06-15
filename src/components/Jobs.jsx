@@ -26,9 +26,10 @@ const Jobs = () => {
   return (
     <main className="container">
       {data.map((element) => {
-        console.log(element); // {title: 'CRM & Data Quality Analyst', contractType: 'CDI', country: 'USA', city: 'New-York', className: 'yellow', …}
+        console.log(element); // {title: 'CRM & Data Quality Analyst', contractType: 'CDI', country: 'USA', city: 'New-York', className: 'yellow',id: 4}
         return (
           <Job
+            key={element.id}
             title={element.title}
             contractType={element.contractType}
             country={element.country}
